@@ -24,7 +24,7 @@ export default function FAQSection() {
                 </Typography>
 
                 <Typography variant="body1" paragraph sx={{ mb: 4 }}>
-                    Whether you're a first-time feeder or a long-time rescuer, we're here to make things easy, honest, and helpful — just like our food.
+                    {"Whether you're a first-time feeder or a long-time rescuer, we're here to make things easy, honest, and helpful — just like our food."}
                 </Typography>
 
                 <Box sx={{ borderTop: '1px solid', borderColor: 'divider', pt: 2 }}>

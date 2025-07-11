@@ -28,8 +28,7 @@ export default function MealPlans() {
                 Tail–wagging food for every kind of feeder.
             </Typography>
             <Typography variant="body1" sx={{ maxWidth: 700, mx: 'auto', mb: 6 }}>
-                Whether you're caring for one loyal pup or a whole streetie crew, our meals are freshly
-                cooked, budget-friendly, and delivered right to your doorstep.
+                {"Whether you're caring for one loyal pup or a whole streetie crew, our meals are freshly cooked, budget-friendly, and delivered right to your doorstep."}
             </Typography>
 
             <Grid container spacing={4} justifyContent="center" alignItems="stretch">
