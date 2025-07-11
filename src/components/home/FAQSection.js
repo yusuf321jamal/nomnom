@@ -20,7 +20,7 @@ export default function FAQSection() {
                 </Typography>
 
                 <Typography variant="body1" paragraph sx={{ mb: 3, fontStyle: 'italic' }}>
-                    Got questions? We've got tail-wagging answers.
+                    {"Got questions? We've got tail-wagging answers."}
                 </Typography>
 
                 <Typography variant="body1" paragraph sx={{ mb: 4 }}>
